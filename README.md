@@ -18,7 +18,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Vite
+- Vite with React plugin
 - [React](https://reactjs.org/) - JS library
 
 ### What I learned
